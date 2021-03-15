@@ -5,7 +5,7 @@ import FormControlLabel from '@material-ui/core/FormControlLabel';
 import Checkbox from '@material-ui/core/Checkbox';
 const Login=({handleChange})=>{
 
-    const paperStyle={padding :20,height:'64vh',width:300, margin:"0 auto"}
+    const paperStyle={padding :20,height:'80.5vh',width:300, margin:"0 auto"}
     const avatarStyle={backgroundColor:'#1bbd7e'}
     const btnstyle={margin:'8px 0'}
     return(
